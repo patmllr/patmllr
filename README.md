@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 **Hi there**
 
-<!--
-**patmllr/patmllr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Education**
+- **Industrial Mathematics (B.Sc.)** - THWS Schweinfurt (2021 - 2025) - [thws.de](https://www.thws.de/)
+- **Artificial Intelligence (M.Sc.)** - JMU Würzburg, (since 2025) - [uni-wuerzburg.de](https://www.uni-wuerzburg.de/)
 
-Here are some ideas to get you started:
+🧠 **Interests**
+- 🐍 Python, AI, data analysis
+- 🌌 Theoretical physics, orbital mechanics, topology
+- ⚙️ Simulation, optimization, game development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m always up for new challenges, messy code and all!  
+My projects jump all over the place, but isn’t that part of the fun?  
+If you’re curious or want to chat about anything here, just reach out.
+
+🌐 **Kontakt**
+- ✉️ patrick.mueller.net@protonmail.com
